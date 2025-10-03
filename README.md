@@ -1,5 +1,5 @@
 # QR Maker with FastAPI
-A QR code generator project using FastAPI, designed to run on servers (e.g. AWS) without GUI windows.
+A QR code generator project using FastAPI.
 
 ## Quick start
 
