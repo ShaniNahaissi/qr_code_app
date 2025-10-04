@@ -1,5 +1,5 @@
-# QR Maker with FastAPI
-A QR code generator project using FastAPI.
+# QR Maker with Streamlit
+A QR code generator project using Streamlit.
 
 ## Quick start
 
